@@ -124,74 +124,106 @@ Vì vậy, em nghĩ rằng MySQL Workbench là một công cụ tuyệt vời đ
 
 ## Features
 ### Log in.
+
 Step 1: Go to http://localhost:8000/admin
+
 Step 2: Input 
+
 Username: admin
 Password: admin
+
 Step 3: Click on Login
+
 ![image](https://user-images.githubusercontent.com/77708167/237044925-ffcb2300-b90b-41c5-a081-03c8b35facf6.png)
 
 
 ### Log out.
+
 Step 1: Click on Proflie button
+
 Step 2: Click on Logout
+
 ![image](https://user-images.githubusercontent.com/77708167/237044983-9aef26da-b00a-4465-a510-da1b7f815254.png)
 ![image](https://user-images.githubusercontent.com/77708167/237045065-e4d49d13-dab3-4746-aaaf-5bcd2434bbd0.png)
 
 
 ### View a list of products in stock.
+
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
+
 ![image](https://user-images.githubusercontent.com/77708167/237045129-88d5ee5a-2e44-40b2-ab90-c9c1dac62be3.png)
 
 
 ### View product details
+
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
+
 Step 2: Click on Action button
+
 Step 3: Click on Show
 System will display the information of the shoes\
+
 ![image](https://user-images.githubusercontent.com/77708167/237045233-1b5e5daa-8f07-4a73-b4e1-43ba8f1975ff.png)
 
 
 ### Delete product
+
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
+
 Step 2: Click on Action button
+
 Step 3: Click on Delete
+
 ![image](https://user-images.githubusercontent.com/77708167/237045303-e0e6c793-5d2c-4b90-aa22-08cc075ab0ea.png)
 
 
 ### Edit product information
+
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
+
 Step 2: Click on Action button
+
 Step 3: Click on Edit
+
 Step 4: Update your change
+
 ![image](https://user-images.githubusercontent.com/77708167/237045357-36e4295c-1908-42f2-bf9c-70aa817d965f.png)
 
 
 ### View/ Update/ Delete Orders
+
 Step 1: Click on Orders button in Menu in the left screen
 System will display list Orders.
+
 Step 2: Click on Action button
 You can View/ Delete or Update
+
 ![image](https://user-images.githubusercontent.com/77708167/237045415-b5b124d0-1b85-4101-b7c0-2c6b881716e9.png)
 
 
 ### View/ Update/ Delete Payment Setting
+
 Step 1: Click on Orders button in Menu in the left screen
 System will display list Orders.
+
 Step 2: Click on Action button
 You can View/ Delete or Update
+
 ![image](https://user-images.githubusercontent.com/77708167/237045478-bb269d43-4ecd-4266-b1b1-97d17331bd1e.png)
 
 
 ### View/ Update/ Delete Users
+
 Step 1: Click on Orders button in Menu in the left screen
 System will display list Orders.
+
 Step 2: Click on Action button
 You can View/ Delete or Update
+
 ![image](https://user-images.githubusercontent.com/77708167/237045521-f6b64dbf-dbc0-4242-b93b-58e34824bf73.png)
 
 
