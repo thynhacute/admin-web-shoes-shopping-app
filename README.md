@@ -18,7 +18,7 @@ Feel free to look up information about shoes, easily check the size or quantity 
 Admin: Users need to login to the system and can use features such as payment, view profile, update profile, etc.
 
  ## FEATURE OF THE SYSTEM
-- Admin:
+Admin:
 - Log in.
 - Log out.
 - View a list of products in stock.
