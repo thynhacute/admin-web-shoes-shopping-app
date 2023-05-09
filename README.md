@@ -105,7 +105,7 @@ Step 7: List of products will appear, Admin can CRUD User/ Shoes/…
 ![image](https://user-images.githubusercontent.com/77708167/237044039-9041f327-f1b1-421f-92f7-7470242d4e99.png)
 
 ## Why do I use these technologies?
-# PHP
+### PHP
 PHP là một ngôn ngữ lập trình phổ biến và được sử dụng rộng rãi cho phía server trong việc phát triển ứng dụng web và mobile.
 Được hỗ trợ bởi nhiều framework: PHP được hỗ trợ bởi nhiều framework như Laravel, CodeIgniter, Yii, Symfony, v.v... các framework này giúp cho việc phát triển backend trở nên nhanh chóng, dễ dàng và tiết kiệm thời gian.
 -> Ở đây em sử dụng PHP kết nối với framework Laravel
@@ -113,7 +113,7 @@ Có thư viện mã nguồn mở phong phú: PHP có nhiều thư viện mã ngu
 Phù hợp cho việc xử lý dữ liệu: PHP có thể xử lý dữ liệu từ nhiều nguồn khác nhau như các database phổ biến như MySQL, PostgreSQL, Oracle, v.v... Điều này giúp cho việc phát triển ứng dụng trở nên dễ dàng và linh hoạt hơn.
 -> Ở đây em thiết kế database trên MySQL
 Thân thiện với developer: Với cú pháp đơn giản, dễ hiểu, PHP là một ngôn ngữ lập trình thân thiện với các nhà phát triển, giúp cho việc phát triển ứng dụng trở nên đơn giản và hiệu quả hơn.
-# MySQL WorkBench + Laravel
+### MySQL WorkBench + Laravel
 MySQL Workbench là một công cụ quản lý cơ sở dữ liệu rất mạnh mẽ và được phát triển bởi Oracle. Nó cung cấp cho người dùng một giao diện đồ họa dễ sử dụng để quản lý cơ sở dữ liệu MySQL. MySQL Workbench cung cấp cho người dùng nhiều tính năng hữu ích như quản lý quyền truy cập, tạo bảng, quản lý index, quản lý views, triggers, procedures, hỗ trợ đồ họa cho phép vẽ và thiết kế cơ sở dữ liệu, ...
 Với Laravel, MySQL Workbench được sử dụng làm công cụ để quản lý cơ sở dữ liệu MySQL.
 Laravel là một framework PHP mạnh mẽ, được thiết kế để xây dựng các ứng dụng web và mobile chuyên nghiệp.
@@ -123,7 +123,7 @@ Vì vậy, em nghĩ rằng MySQL Workbench là một công cụ tuyệt vời đ
 ![image](https://user-images.githubusercontent.com/77708167/237044472-40160260-2a88-49f7-8c08-e91d7fc5fd05.png)
 
 ## Features
-# Log in.
+### Log in.
 Step 1: Go to http://localhost:8000/admin
 Step 2: Input 
 Username: admin
@@ -132,20 +132,20 @@ Step 3: Click on Login
 ![image](https://user-images.githubusercontent.com/77708167/237044925-ffcb2300-b90b-41c5-a081-03c8b35facf6.png)
 
 
-# Log out.
+### Log out.
 Step 1: Click on Proflie button
 Step 2: Click on Logout
 ![image](https://user-images.githubusercontent.com/77708167/237044983-9aef26da-b00a-4465-a510-da1b7f815254.png)
 ![image](https://user-images.githubusercontent.com/77708167/237045065-e4d49d13-dab3-4746-aaaf-5bcd2434bbd0.png)
 
 
-# View a list of products in stock.
+### View a list of products in stock.
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
 ![image](https://user-images.githubusercontent.com/77708167/237045129-88d5ee5a-2e44-40b2-ab90-c9c1dac62be3.png)
 
 
-# View product details
+### View product details
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
 Step 2: Click on Action button
@@ -154,7 +154,7 @@ System will display the information of the shoes\
 ![image](https://user-images.githubusercontent.com/77708167/237045233-1b5e5daa-8f07-4a73-b4e1-43ba8f1975ff.png)
 
 
-# Delete product
+### Delete product
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
 Step 2: Click on Action button
@@ -162,7 +162,7 @@ Step 3: Click on Delete
 ![image](https://user-images.githubusercontent.com/77708167/237045303-e0e6c793-5d2c-4b90-aa22-08cc075ab0ea.png)
 
 
-# Edit product information
+### Edit product information
 Step 1: Click on Shoes button in Menu in the left screen
 System will display list shoes.
 Step 2: Click on Action button
@@ -171,7 +171,7 @@ Step 4: Update your change
 ![image](https://user-images.githubusercontent.com/77708167/237045357-36e4295c-1908-42f2-bf9c-70aa817d965f.png)
 
 
-# View/ Update/ Delete Orders
+### View/ Update/ Delete Orders
 Step 1: Click on Orders button in Menu in the left screen
 System will display list Orders.
 Step 2: Click on Action button
@@ -179,7 +179,7 @@ You can View/ Delete or Update
 ![image](https://user-images.githubusercontent.com/77708167/237045415-b5b124d0-1b85-4101-b7c0-2c6b881716e9.png)
 
 
-# View/ Update/ Delete Payment Setting
+### View/ Update/ Delete Payment Setting
 Step 1: Click on Orders button in Menu in the left screen
 System will display list Orders.
 Step 2: Click on Action button
@@ -187,7 +187,7 @@ You can View/ Delete or Update
 ![image](https://user-images.githubusercontent.com/77708167/237045478-bb269d43-4ecd-4266-b1b1-97d17331bd1e.png)
 
 
-# View/ Update/ Delete Users
+### View/ Update/ Delete Users
 Step 1: Click on Orders button in Menu in the left screen
 System will display list Orders.
 Step 2: Click on Action button
