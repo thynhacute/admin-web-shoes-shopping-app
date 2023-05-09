@@ -29,7 +29,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Laravel Sponsors
 
-### FPT SNEAKER GUIDELINE 
+# FPT SNEAKER GUIDELINE 
 ## INTRODUCTION
 IDEA
 Customers find it difficult to find, compare and choose the right shoe models.
