@@ -1,34 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
 # FPT SNEAKER GUIDELINE 
 ## INTRODUCTION
 IDEA
@@ -116,6 +85,16 @@ Thân thiện với developer: Với cú pháp đơn giản, dễ hiểu, PHP l�
 ### MySQL WorkBench + Laravel
 MySQL Workbench là một công cụ quản lý cơ sở dữ liệu rất mạnh mẽ và được phát triển bởi Oracle. Nó cung cấp cho người dùng một giao diện đồ họa dễ sử dụng để quản lý cơ sở dữ liệu MySQL. MySQL Workbench cung cấp cho người dùng nhiều tính năng hữu ích như quản lý quyền truy cập, tạo bảng, quản lý index, quản lý views, triggers, procedures, hỗ trợ đồ họa cho phép vẽ và thiết kế cơ sở dữ liệu, ...
 Với Laravel, MySQL Workbench được sử dụng làm công cụ để quản lý cơ sở dữ liệu MySQL.
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
 Laravel là một framework PHP mạnh mẽ, được thiết kế để xây dựng các ứng dụng web và mobile chuyên nghiệp.
 Laravel có hỗ trợ tốt cho MySQL và MySQL Workbench là một công cụ rất hữu ích cho các nhà phát triển Laravel để thiết kế, quản lý và tương tác với cơ sở dữ liệu MySQL. Nó cung cấp cho các nhà phát triển một giao diện đồ họa dễ sử dụng để thiết kế và quản lý cơ sở dữ liệu, giúp họ tối ưu hóa quy trình phát triển ứng dụng và tăng tốc độ phát triển.
 Vì vậy, em nghĩ rằng MySQL Workbench là một công cụ tuyệt vời để sử dụng với Laravel và MySQL để lưu trữ và quản lý cơ sở dữ liệu, cung cấp cho người dùng một phương tiện dễ sử dụng để thiết kế và quản lý cơ sở dữ liệu của họ.
