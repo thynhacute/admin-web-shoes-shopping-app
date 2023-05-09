@@ -1,6 +1,6 @@
 # FPT SNEAKER GUIDELINE 
 ## INTRODUCTION
-IDEA
+### IDEA
 Customers find it difficult to find, compare and choose the right shoe models.
 Moreover, finding a store full of different models and brands is difficult.
 Besides, customers have to move to the store, which consumes a lot of time and travel costs.
